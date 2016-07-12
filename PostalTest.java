@@ -1,4 +1,5 @@
-// This file contains material supporting section 2.8 of the textbook:
+// This file contains material supporting section 2.8 of the //Hello
+textbook:
 // "Object Oriented Software Engineering" and is issued under the open-source
 // license found at www.lloseng.com 
 
